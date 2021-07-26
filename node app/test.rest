@@ -1,0 +1,7 @@
+GET http://localhost:8080/getData
+content-type: application/json
+
+{
+    
+    
+}
